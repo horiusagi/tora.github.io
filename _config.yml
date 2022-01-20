@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: Horiusagi
 
 url: 
-baseurl: 
+baseurl: /tora 
 
 collections:
   pages:
