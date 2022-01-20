@@ -1,4 +1,4 @@
-![](/images/demo/landscape-01.jpg)
+![]({{site.url}}/images/demo/landscape-01.jpg)
 
 ## Demo content
 
@@ -47,12 +47,12 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
-	<img src="/images/demo/square-04.jpg">
-	<img src="/images/demo/square-03.jpg">
-	<img src="/images/demo/square-05.jpg">
-	<img src="/images/demo/landscape-05.jpg">
+	<img src="{{site.url}}/images/demo/square-01.jpg">
+	<img src="{{site.url}}/images/demo/portrait-02.jpg">
+	<img src="{{site.url}}/images/demo/square-04.jpg">
+	<img src="{{site.url}}/images/demo/square-03.jpg">
+	<img src="{{site.url}}/images/demo/square-05.jpg">
+	<img src="{{site.url}}/images/demo/landscape-05.jpg">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
@@ -81,9 +81,9 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/landscape-02.jpg">
-	<img src="/images/demo/landscape-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
+	<img src="{{site.url}}/images/demo/landscape-02.jpg">
+	<img src="{{site.url}}/images/demo/landscape-03.jpg">
+	<img src="{{site.url}}/images/demo/landscape-04.jpg">
 </div>
 
 ### What about videos?
