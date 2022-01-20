@@ -2,7 +2,7 @@ site: https://horiusagi.com/tora.github.io
 
 
 url: https://horiusagi.com/tora.github.io
-baseurl: / 
+baseurl: 
 
 collections:
   pages:
