@@ -1,9 +1,9 @@
 basic_settings:
   site_title: 彫兎
-  favicon_image: /images/favicon.png
+  favicon_image: tora.github.io/images/favicon.png
 
 header_settings:
-  logo_image: /images/social.jpg 
+  logo_image: tora.github.io/images/social.jpg 
   logo_width: 100
 
 menu_settings:

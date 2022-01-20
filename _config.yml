@@ -1,7 +1,7 @@
-site: https://horiusagi.com/tora.github.io
+site:
 
 
-url: https://horiusagi.com/tora.github.io
+url:
 baseurl: 
 
 collections:

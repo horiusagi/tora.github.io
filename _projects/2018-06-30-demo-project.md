@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![]{{ site.baseurl }}(/images/demo/demo-landscape.jpg)
+![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
