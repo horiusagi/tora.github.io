@@ -1,15 +1,16 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: {{site.url}}/images/demo/demo-landscape.jpg
+title: About Horiusagi
+subtitle: Living and working in Vancouver B.C. Canada I divide my time between tattooing, painting, music and craft. I'm currently tattooing Sunday-Wednesday 3pm-8pm at ~The Three Point Tattoo Shop~ located in the Duncan Building 425-119 West Pender Street.   
+
+description:
+featured_image: /images/demo/demo-landscape.jpg
 ---
 
 ![]({{site.url}}/images/demo/demo-landscape.jpg)
 
-## Features
+## Booking a tattoo.
 
-We've packed Duet full of powerful features to help showcase your work:
+Contact me using the contact form on this site:
 
 * Beautiful, minimal design
 * Two-column masonry grid layout
